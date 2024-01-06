@@ -1,0 +1,87 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+#quiz-container {
+    width: 400px;
+    margin: auto;
+    min-height: 400px;
+    transition: opacity 0.3s ease-in-out; /* Add a transition for opacity */
+
+}
+
+.fade-out {
+    opacity: 0;
+}
+
+#question {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+#options {
+    list-style-type: none;
+    padding: 0;
+}
+
+.option {
+    margin: 5px;
+    cursor: pointer;
+}
+
+#feedback {
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+#score {
+    margin-top: 10px;
+}
+
+/* Add your custom styles here */
+
+.container {
+    margin-top: 20px;
+}
+
+.header,
+.footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px;
+}
+
+.quiz-container {
+    margin-top: 20px;
+}
+
+.scores-container {
+    margin-top: 20px;
+}
+
+.row {
+    margin-top: 20px;
+}
+
+.text-left {
+    text-align: left;
+}
+
+/* Style for clickable options */
+#options li {
+    list-style-type: none;
+    margin: 5px 0;
+    cursor: pointer;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+}
+
+/* Change color on hover */
+#options li:hover {
+    background-color: #d1e8ff;
+}

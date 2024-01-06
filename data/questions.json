@@ -1,0 +1,92 @@
+[
+    {
+        "text": "What is the capital of France?",
+        "options": [
+            "Berlin",
+            "Paris",
+            "Madrid"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "Which programming language is this quiz written in?",
+        "options": [
+            "JavaScript",
+            "Python",
+            "Java"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "text": "What is the largest planet in our solar system?",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Mars"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "What is the capital of Japan?",
+        "options": [
+            "Seoul",
+            "Tokyo",
+            "Beijing"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "Which country is known as the Land of the Rising Sun?",
+        "options": [
+            "China",
+            "Japan",
+            "India"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "In which year did World War II end?",
+        "options": [
+            "1943",
+            "1945",
+            "1950"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+            "William Shakespeare",
+            "Jane Austen",
+            "Charles Dickens"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "text": "Which element has the chemical symbol 'O'?",
+        "options": [
+            "Oxygen",
+            "Gold",
+            "Carbon"
+        ],
+        "correctAnswerIndex": 0
+    },
+    {
+        "text": "What is the largest mammal on Earth?",
+        "options": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe"
+        ],
+        "correctAnswerIndex": 1
+    },
+    {
+        "text": "Who is known as the 'Father of Computer Science'?",
+        "options": [
+            "Alan Turing",
+            "Bill Gates",
+            "Steve Jobs"
+        ],
+        "correctAnswerIndex": 0
+    }
+]
